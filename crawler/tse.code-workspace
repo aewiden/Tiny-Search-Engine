@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../lab3-aewiden/hashtable"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../common"
+		},
+		{
+			"path": "../libcs50"
+		}
+	],
+	"settings": {}
+}
